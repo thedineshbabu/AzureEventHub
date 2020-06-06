@@ -1,0 +1,15 @@
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/bin/Debug/netcoreapp3.1/Sender.deps.json
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/bin/Debug/netcoreapp3.1/Sender.runtimeconfig.json
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/bin/Debug/netcoreapp3.1/Sender.runtimeconfig.dev.json
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/bin/Debug/netcoreapp3.1/Sender.dll
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/bin/Debug/netcoreapp3.1/Sender.pdb
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/obj/Debug/netcoreapp3.1/Sender.csprojAssemblyReference.cache
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/obj/Debug/netcoreapp3.1/Sender.AssemblyInfoInputs.cache
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/obj/Debug/netcoreapp3.1/Sender.AssemblyInfo.cs
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/obj/Debug/netcoreapp3.1/Sender.dll
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/obj/Debug/netcoreapp3.1/Sender.pdb
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/bin/Debug/netcoreapp3.1/Azure.Messaging.EventHubs.dll
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/deebee/Documents/Repo/AzureEventHubs/Sender/obj/Debug/netcoreapp3.1/Sender.csproj.CopyComplete
